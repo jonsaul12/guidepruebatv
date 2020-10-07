@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL 5">
+    <display-name lang="es">CANAL 5</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201007003000 -0500" stop="20201007010000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201007010000 -0500" stop="20201007013000 -0500" channel="CANAL 5">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20201007013000 -0500" stop="20201007043000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201007043000 -0500" stop="20201007050000 -0500" channel="CANAL 5">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201007050000 -0500" stop="20201007063000 -0500" channel="CANAL 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201007063000 -0500" stop="20201007070000 -0500" channel="CANAL 5">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20201007070000 -0500" stop="20201007073000 -0500" channel="CANAL 5">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20201007073000 -0500" stop="20201007080000 -0500" channel="CANAL 5">
+    <title lang="es">Rainbow Rangers</title>
+  </programme>
+  <programme start="20201007080000 -0500" stop="20201007083000 -0500" channel="CANAL 5">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20201007083000 -0500" stop="20201007090000 -0500" channel="CANAL 5">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20201007090000 -0500" stop="20201007093000 -0500" channel="CANAL 5">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20201007093000 -0500" stop="20201007100000 -0500" channel="CANAL 5">
+    <title lang="es">PAW Patrol</title>
+  </programme>
+  <programme start="20201007100000 -0500" stop="20201007113000 -0500" channel="CANAL 5">
+    <title lang="es">Scooby Doo y los duendes</title>
+  </programme>
+  <programme start="20201007113000 -0500" stop="20201007131500 -0500" channel="CANAL 5">
+    <title lang="es">Scooby Doo y la maldición</title>
+  </programme>
+  <programme start="20201007131500 -0500" stop="20201007154500 -0500" channel="CANAL 5">
+    <title lang="es">Holanda vs. México En Vivo</title>
+  </programme>
+  <programme start="20201007154500 -0500" stop="20201007170000 -0500" channel="CANAL 5">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20201007170000 -0500" stop="20201007180000 -0500" channel="CANAL 5">
+    <title lang="es">La CQ</title>
+  </programme>
+  <programme start="20201007180000 -0500" stop="20201007193000 -0500" channel="CANAL 5">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20201007193000 -0500" stop="20201007203000 -0500" channel="CANAL 5">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20201007203000 -0500" stop="20201007223000 -0500" channel="CANAL 5">
+    <title lang="es">Me caigo de risa</title>
+  </programme>
+  <programme start="20201007223000 -0500" stop="20201007233000 -0500" channel="CANAL 5">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201007233000 -0500" stop="20201008000000 -0500" channel="CANAL 5">
+    <title lang="es">Super Girl</title>
+  </programme>
+</tv>
